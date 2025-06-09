@@ -72,3 +72,4 @@ class CoiffeursDisponibilitesController extends AbstractController
         return $this->json($result);
     }
 }
+CD 
